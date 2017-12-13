@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "771100524072",
+    "firebase_url": "https://cashapp-fd161.firebaseio.com",
+    "project_id": "cashapp-fd161",
+    "storage_bucket": "cashapp-fd161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771100524072:android:9793d8c9f50b323a",
+        "android_client_info": {
+          "package_name": "com.example.ratha.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771100524072-km6kl2u1s3l6usuhvcjdg86hb1fq8tug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ratha.firebasedemo",
+            "certificate_hash": "8585128366dd456887a53b894f7012dd2bc31e47"
+          }
+        },
+        {
+          "client_id": "771100524072-2jontk9e61rr470m2ojt0jnfu3drh1cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD8tMaN2s684B8KNHOdcQCpTEhfCS9Xpc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771100524072-2jontk9e61rr470m2ojt0jnfu3drh1cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
