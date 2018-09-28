@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Localize</string>
+    <string name="rg_name">name</string>
+    <string name="main_hello_wlord">Hello World!</string>
+    <string name="rg_email">email</string>
+    <string name="rg_password">password</string>
+    <string name="rg_home_screen">Home screen</string>
+    <string name="rg_khmer">Khmer</string>
+    <string name="rg_english">english</string>
+    <string name="btn_english">English</string>
+    <string name="btn_khmer">Khmer</string>
+</resources>

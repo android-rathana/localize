@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">កម្មវិធីច្រើនភាសា</string>
+    <string name="rg_name">ឈ្មោះ</string>
+    <string name="main_hello_wlord">សូរស្តីពិភពលោក</string>
+    <string name="rg_email">អ៊ីម៉ែល</string>
+    <string name="rg_password">លេខសម្ងាត់</string>
+    <string name="rg_home_screen">ទំព័រដើម</string>
+    <string name="rg_khmer">ខ្មែរ</string>
+    <string name="rg_english">អង់គ្លេស</string>
+</resources>
