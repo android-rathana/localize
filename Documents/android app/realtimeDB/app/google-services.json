@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "114694247956",
+    "firebase_url": "https://realtime-app-27273.firebaseio.com",
+    "project_id": "realtime-app-27273",
+    "storage_bucket": "realtime-app-27273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114694247956:android:43e38c0aacf15cc8",
+        "android_client_info": {
+          "package_name": "com.example.ratha.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114694247956-mlu03a4sj8lbakd3sriu99v028912ii2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ratha.realtimedb",
+            "certificate_hash": "a7421bdc5d1cb7406d9ac285d7a0f91a44e89c47"
+          }
+        },
+        {
+          "client_id": "114694247956-faukoe6nr3skllqphmtfassel40psqfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WJ_uYhLjFrVczgJI0khji3Xx8-kl6UE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114694247956-faukoe6nr3skllqphmtfassel40psqfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
